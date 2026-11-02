@@ -1,0 +1,6 @@
+SITE THERAFORMY - à compléter avant mise en ligne
+1. images/yoann.jpg : ajouter ta photo (format portrait). Sans photo, l'emplacement se masque tout seul.
+2. Réseaux sociaux : liens à ajouter (commentaire "RÉSEAUX" dans le pied de page, via Claude).
+3. mentions-legales.html : nom du médiateur de la consommation (obligatoire).
+4. Vérifier l'orthographe exacte de l'adresse : identique à la fiche Google.
+Mise en ligne : dépôt GitHub + Cloudflare Pages (pas de commande de build, dossier racine = ce dossier).
